@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<recipe id="117" category="dessert">
+<title>Rhubarb Cobbler</title>
+<author><email>Maggie.Herrick@bbs.mhv.net</email></author>
+<date>Wed, 14 Jun 2017</date>
+<description>
+Rhubarb Cobbler made with bananas as the main sweetener.
+It was delicious.
+</description>
+<ingredients>
+<item><amount>2 1/2 cups</amount><type>dice</type></item>
+<item><amount>2 tablespoons</amount><type>sugar</type></item>
+<item><amount>2</amount><type>fairly ripe bananas</type></item>
+<item><amount>1/4 teaspoon</amount><type>cinnamon</type></item>
+<item><amount>dash of</amount><type>nutmeg</type></item>
+</ingredients>
+<preparation>
+Combine all and use as cobbler, pie, or crisp.
+</preparation>
+<related url="#GardenQuiche">Garden Quiche</related>
+</recipe>

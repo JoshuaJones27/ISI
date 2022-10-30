@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="Node.xsl" ?>
+<!--OK-->
+<?PI0?>
+<html>
+  <head attr="1">
+    <title>A simple HTML page</title>
+  </head>
+    <body bgground="1">
+      <h2>Venus</h2>Description
+      <ul>
+        <li><strong>Diameter</strong> 12104 km (7505 miles)</li>
+        <li><strong>Moons:</strong> 0</li>
+        <li><strong>Mean temperature:</strong> 482C (900F)</li>
+        <li><strong>Length of one day:</strong> 243.01 earth days</li>
+        <li><strong>Length of one year:</strong> 224.7 earth days</li>
+      </ul> 
+   </body>
+  <?PI1?>
+</html>
