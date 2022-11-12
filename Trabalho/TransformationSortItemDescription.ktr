@@ -2771,6 +2771,45 @@
       <splitevery>0</splitevery>
     </file>
     <fields>
+      <field>
+        <content_type>Element</content_type>
+        <name>Member_number</name>
+        <element/>
+        <type>Integer</type>
+        <format/>
+        <currency/>
+        <decimal/>
+        <group/>
+        <nullif/>
+        <length>15</length>
+        <precision>0</precision>
+      </field>
+      <field>
+        <content_type>Element</content_type>
+        <name>Date</name>
+        <element/>
+        <type>Date</type>
+        <format/>
+        <currency/>
+        <decimal/>
+        <group/>
+        <nullif/>
+        <length>-1</length>
+        <precision>-1</precision>
+      </field>
+      <field>
+        <content_type>Element</content_type>
+        <name>itemDescription</name>
+        <element/>
+        <type>String</type>
+        <format/>
+        <currency/>
+        <decimal/>
+        <group/>
+        <nullif/>
+        <length>25</length>
+        <precision>-1</precision>
+      </field>
     </fields>
     <attributes/>
     <cluster_schema/>
