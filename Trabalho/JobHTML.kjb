@@ -306,7 +306,7 @@
       <draw>Y</draw>
       <nr>0</nr>
       <xloc>144</xloc>
-      <yloc>336</yloc>
+      <yloc>400</yloc>
       <attributes_kjc/>
     </entry>
     <entry>
@@ -345,7 +345,7 @@
       <draw>Y</draw>
       <nr>0</nr>
       <xloc>272</xloc>
-      <yloc>336</yloc>
+      <yloc>400</yloc>
       <attributes_kjc/>
     </entry>
     <entry>
@@ -367,7 +367,7 @@
       <parallel>N</parallel>
       <draw>Y</draw>
       <nr>0</nr>
-      <xloc>640</xloc>
+      <xloc>816</xloc>
       <yloc>144</yloc>
       <attributes_kjc/>
     </entry>
@@ -390,7 +390,7 @@
       <parallel>N</parallel>
       <draw>Y</draw>
       <nr>0</nr>
-      <xloc>640</xloc>
+      <xloc>432</xloc>
       <yloc>16</yloc>
       <attributes_kjc/>
     </entry>
@@ -413,8 +413,8 @@
       <parallel>N</parallel>
       <draw>Y</draw>
       <nr>0</nr>
-      <xloc>640</xloc>
-      <yloc>336</yloc>
+      <xloc>1216</xloc>
+      <yloc>304</yloc>
       <attributes_kjc/>
     </entry>
     <entry>
@@ -436,7 +436,7 @@
       <parallel>N</parallel>
       <draw>Y</draw>
       <nr>0</nr>
-      <xloc>640</xloc>
+      <xloc>1216</xloc>
       <yloc>464</yloc>
       <attributes_kjc/>
     </entry>
@@ -459,8 +459,8 @@
       <parallel>N</parallel>
       <draw>Y</draw>
       <nr>0</nr>
-      <xloc>640</xloc>
-      <yloc>656</yloc>
+      <xloc>832</xloc>
+      <yloc>640</yloc>
       <attributes_kjc/>
     </entry>
     <entry>
@@ -482,7 +482,7 @@
       <parallel>N</parallel>
       <draw>Y</draw>
       <nr>0</nr>
-      <xloc>640</xloc>
+      <xloc>624</xloc>
       <yloc>80</yloc>
       <attributes_kjc/>
     </entry>
@@ -505,8 +505,8 @@
       <parallel>N</parallel>
       <draw>Y</draw>
       <nr>0</nr>
-      <xloc>640</xloc>
-      <yloc>528</yloc>
+      <xloc>1088</xloc>
+      <yloc>512</yloc>
       <attributes_kjc/>
     </entry>
     <entry>
@@ -528,8 +528,8 @@
       <parallel>N</parallel>
       <draw>Y</draw>
       <nr>0</nr>
-      <xloc>640</xloc>
-      <yloc>592</yloc>
+      <xloc>976</xloc>
+      <yloc>576</yloc>
       <attributes_kjc/>
     </entry>
     <entry>
@@ -551,7 +551,7 @@
       <parallel>N</parallel>
       <draw>Y</draw>
       <nr>0</nr>
-      <xloc>640</xloc>
+      <xloc>992</xloc>
       <yloc>208</yloc>
       <attributes_kjc/>
     </entry>
@@ -574,8 +574,8 @@
       <parallel>N</parallel>
       <draw>Y</draw>
       <nr>0</nr>
-      <xloc>640</xloc>
-      <yloc>272</yloc>
+      <xloc>1088</xloc>
+      <yloc>256</yloc>
       <attributes_kjc/>
     </entry>
     <entry>
@@ -597,8 +597,405 @@
       <parallel>N</parallel>
       <draw>Y</draw>
       <nr>0</nr>
+      <xloc>1392</xloc>
+      <yloc>448</yloc>
+      <attributes_kjc/>
+    </entry>
+    <entry>
+      <name>XSL Cheapest</name>
+      <description/>
+      <type>XSLT</type>
+      <attributes/>
+      <xmlfilename>C:\Users\ossie\Desktop\ISI\Trabalho\Ficheiros de Data\Cheapest.xml</xmlfilename>
+      <xslfilename>C:\Users\ossie\Desktop\ISI\Trabalho\XSL\Cheapest.xsl</xslfilename>
+      <outputfilename>C:\Users\ossie\Desktop\ISI\Trabalho\HTML\Cheapest.html</outputfilename>
+      <iffileexists>1</iffileexists>
+      <addfiletoresult>N</addfiletoresult>
+      <filenamesfromprevious>N</filenamesfromprevious>
+      <xsltfactory>JAXP</xsltfactory>
+      <parameters>
+    </parameters>
+      <outputproperties>
+    </outputproperties>
+      <parallel>N</parallel>
+      <draw>Y</draw>
+      <nr>0</nr>
       <xloc>640</xloc>
+      <yloc>704</yloc>
+      <attributes_kjc/>
+    </entry>
+    <entry>
+      <name>XSL Most_Expensive</name>
+      <description/>
+      <type>XSLT</type>
+      <attributes/>
+      <xmlfilename>C:\Users\ossie\Desktop\ISI\Trabalho\Ficheiros de Data\Most_Expensive.xml</xmlfilename>
+      <xslfilename>C:\Users\ossie\Desktop\ISI\Trabalho\XSL\MostExpensive.xsl</xslfilename>
+      <outputfilename>C:\Users\ossie\Desktop\ISI\Trabalho\HTML\MostExpensive.html</outputfilename>
+      <iffileexists>1</iffileexists>
+      <addfiletoresult>N</addfiletoresult>
+      <filenamesfromprevious>N</filenamesfromprevious>
+      <xsltfactory>JAXP</xsltfactory>
+      <parameters>
+    </parameters>
+      <outputproperties>
+    </outputproperties>
+      <parallel>N</parallel>
+      <draw>Y</draw>
+      <nr>0</nr>
+      <xloc>464</xloc>
+      <yloc>768</yloc>
+      <attributes_kjc/>
+    </entry>
+    <entry>
+      <name>File exists XML BC</name>
+      <description/>
+      <type>FILE_EXISTS</type>
+      <attributes/>
+      <filename>file:///C:/Users/ossie/Desktop/ISI/Trabalho/Ficheiros%20de%20Data/Baby%20Care.xml</filename>
+      <parallel>N</parallel>
+      <draw>Y</draw>
+      <nr>0</nr>
+      <xloc>272</xloc>
+      <yloc>192</yloc>
+      <attributes_kjc/>
+    </entry>
+    <entry>
+      <name>Delete file HTML BC</name>
+      <description/>
+      <type>DELETE_FILE</type>
+      <attributes/>
+      <filename>C:\Users\ossie\Desktop\ISI\Trabalho\HTML\BabyCare.html</filename>
+      <fail_if_file_not_exists>N</fail_if_file_not_exists>
+      <parallel>N</parallel>
+      <draw>Y</draw>
+      <nr>0</nr>
+      <xloc>272</xloc>
+      <yloc>16</yloc>
+      <attributes_kjc/>
+    </entry>
+    <entry>
+      <name>File exists XML ME</name>
+      <description/>
+      <type>FILE_EXISTS</type>
+      <attributes/>
+      <filename>file:///C:/Users/ossie/Desktop/ISI/Trabalho/Ficheiros%20de%20Data/Most_Expensive.xml</filename>
+      <parallel>N</parallel>
+      <draw>Y</draw>
+      <nr>0</nr>
+      <xloc>272</xloc>
+      <yloc>592</yloc>
+      <attributes_kjc/>
+    </entry>
+    <entry>
+      <name>Delete file HTML ME</name>
+      <description/>
+      <type>DELETE_FILE</type>
+      <attributes/>
+      <filename>C:\Users\ossie\Desktop\ISI\Trabalho\HTML\MostExpensive.html</filename>
+      <fail_if_file_not_exists>N</fail_if_file_not_exists>
+      <parallel>N</parallel>
+      <draw>Y</draw>
+      <nr>0</nr>
+      <xloc>272</xloc>
+      <yloc>768</yloc>
+      <attributes_kjc/>
+    </entry>
+    <entry>
+      <name>Delete file HTML BCD</name>
+      <description/>
+      <type>DELETE_FILE</type>
+      <attributes/>
+      <filename>C:\Users\ossie\Desktop\ISI\Trabalho\HTML\BakeryCakesAndDairy.html</filename>
+      <fail_if_file_not_exists>N</fail_if_file_not_exists>
+      <parallel>N</parallel>
+      <draw>Y</draw>
+      <nr>0</nr>
+      <xloc>448</xloc>
+      <yloc>80</yloc>
+      <attributes_kjc/>
+    </entry>
+    <entry>
+      <name>File exists XML BCD</name>
+      <description/>
+      <type>FILE_EXISTS</type>
+      <attributes/>
+      <filename>file:///C:/Users/ossie/Desktop/ISI/Trabalho/Ficheiros%20de%20Data/Bakery_Cakes_Dairy.xml</filename>
+      <parallel>N</parallel>
+      <draw>Y</draw>
+      <nr>0</nr>
+      <xloc>400</xloc>
+      <yloc>192</yloc>
+      <attributes_kjc/>
+    </entry>
+    <entry>
+      <name>File exists XML C</name>
+      <description/>
+      <type>FILE_EXISTS</type>
+      <attributes/>
+      <filename>file:///C:/Users/ossie/Desktop/ISI/Trabalho/Ficheiros%20de%20Data/Cheapest.xml</filename>
+      <parallel>N</parallel>
+      <draw>Y</draw>
+      <nr>0</nr>
+      <xloc>400</xloc>
+      <yloc>592</yloc>
+      <attributes_kjc/>
+    </entry>
+    <entry>
+      <name>Delete file HTML C</name>
+      <description/>
+      <type>DELETE_FILE</type>
+      <attributes/>
+      <filename>C:\Users\ossie\Desktop\ISI\Trabalho\HTML\Cheapest.html</filename>
+      <fail_if_file_not_exists>N</fail_if_file_not_exists>
+      <parallel>N</parallel>
+      <draw>Y</draw>
+      <nr>0</nr>
+      <xloc>448</xloc>
+      <yloc>704</yloc>
+      <attributes_kjc/>
+    </entry>
+    <entry>
+      <name>Delete file HTML BH</name>
+      <description/>
+      <type>DELETE_FILE</type>
+      <attributes/>
+      <filename>C:\Users\ossie\Desktop\ISI\Trabalho\HTML\BeautyAndHygiene.html</filename>
+      <fail_if_file_not_exists>N</fail_if_file_not_exists>
+      <parallel>N</parallel>
+      <draw>Y</draw>
+      <nr>0</nr>
+      <xloc>640</xloc>
+      <yloc>144</yloc>
+      <attributes_kjc/>
+    </entry>
+    <entry>
+      <name>Delete file HTML SBF</name>
+      <description/>
+      <type>DELETE_FILE</type>
+      <attributes/>
+      <filename>C:\Users\ossie\Desktop\ISI\Trabalho\HTML\SnacksAndBrandedFoods.html</filename>
+      <fail_if_file_not_exists>N</fail_if_file_not_exists>
+      <parallel>N</parallel>
+      <draw>Y</draw>
+      <nr>0</nr>
+      <xloc>640</xloc>
+      <yloc>640</yloc>
+      <attributes_kjc/>
+    </entry>
+    <entry>
+      <name>File exists XML BH</name>
+      <description/>
+      <type>FILE_EXISTS</type>
+      <attributes/>
+      <filename>file:///C:/Users/ossie/Desktop/ISI/Trabalho/Ficheiros%20de%20Data/Beauty_Hygiene.xml</filename>
+      <parallel>N</parallel>
+      <draw>Y</draw>
+      <nr>0</nr>
+      <xloc>496</xloc>
+      <yloc>224</yloc>
+      <attributes_kjc/>
+    </entry>
+    <entry>
+      <name>File exists XML SBF</name>
+      <description/>
+      <type>FILE_EXISTS</type>
+      <attributes/>
+      <filename>file:///C:/Users/ossie/Desktop/ISI/Trabalho/Ficheiros%20de%20Data/Snacks_Branded_Foods.xml</filename>
+      <parallel>N</parallel>
+      <draw>Y</draw>
+      <nr>0</nr>
+      <xloc>496</xloc>
+      <yloc>560</yloc>
+      <attributes_kjc/>
+    </entry>
+    <entry>
+      <name>File exists XML FOM</name>
+      <description/>
+      <type>FILE_EXISTS</type>
+      <attributes/>
+      <filename>file:///C:/Users/ossie/Desktop/ISI/Trabalho/Ficheiros%20de%20Data/Foodgrains_Oil_Masala.xml</filename>
+      <parallel>N</parallel>
+      <draw>Y</draw>
+      <nr>0</nr>
+      <xloc>1120</xloc>
       <yloc>400</yloc>
+      <attributes_kjc/>
+    </entry>
+    <entry>
+      <name>Delete file HTML FOM</name>
+      <description/>
+      <type>DELETE_FILE</type>
+      <attributes/>
+      <filename>C:\Users\ossie\Desktop\ISI\Trabalho\HTML\FoodgrainsOilAndMasala.html</filename>
+      <fail_if_file_not_exists>N</fail_if_file_not_exists>
+      <parallel>N</parallel>
+      <draw>Y</draw>
+      <nr>0</nr>
+      <xloc>1392</xloc>
+      <yloc>320</yloc>
+      <attributes_kjc/>
+    </entry>
+    <entry>
+      <name>Delete file HTML KGP</name>
+      <description/>
+      <type>DELETE_FILE</type>
+      <attributes/>
+      <filename>C:\Users\ossie\Desktop\ISI\Trabalho\HTML\KitchenGardenAndPets.html</filename>
+      <fail_if_file_not_exists>N</fail_if_file_not_exists>
+      <parallel>N</parallel>
+      <draw>Y</draw>
+      <nr>0</nr>
+      <xloc>800</xloc>
+      <yloc>576</yloc>
+      <attributes_kjc/>
+    </entry>
+    <entry>
+      <name>Delete file HTML B</name>
+      <description/>
+      <type>DELETE_FILE</type>
+      <attributes/>
+      <filename>C:\Users\ossie\Desktop\ISI\Trabalho\HTML\Beverages.html</filename>
+      <fail_if_file_not_exists>N</fail_if_file_not_exists>
+      <parallel>N</parallel>
+      <draw>Y</draw>
+      <nr>0</nr>
+      <xloc>800</xloc>
+      <yloc>208</yloc>
+      <attributes_kjc/>
+    </entry>
+    <entry>
+      <name>File exists XML B</name>
+      <description/>
+      <type>FILE_EXISTS</type>
+      <attributes/>
+      <filename>file:///C:/Users/ossie/Desktop/ISI/Trabalho/Ficheiros%20de%20Data/Beverages.xml</filename>
+      <parallel>N</parallel>
+      <draw>Y</draw>
+      <nr>0</nr>
+      <xloc>608</xloc>
+      <yloc>256</yloc>
+      <attributes_kjc/>
+    </entry>
+    <entry>
+      <name>File exists XML KGP</name>
+      <description/>
+      <type>FILE_EXISTS</type>
+      <attributes/>
+      <filename>file:///C:/Users/ossie/Desktop/ISI/Trabalho/Ficheiros%20de%20Data/Kitchen_Garden_Pets.xml</filename>
+      <parallel>N</parallel>
+      <draw>Y</draw>
+      <nr>0</nr>
+      <xloc>592</xloc>
+      <yloc>528</yloc>
+      <attributes_kjc/>
+    </entry>
+    <entry>
+      <name>File exists XML CH</name>
+      <description/>
+      <type>FILE_EXISTS</type>
+      <attributes/>
+      <filename>file:///C:/Users/ossie/Desktop/ISI/Trabalho/Ficheiros%20de%20Data/Cleaning_Household.xml</filename>
+      <parallel>N</parallel>
+      <draw>Y</draw>
+      <nr>0</nr>
+      <xloc>704</xloc>
+      <yloc>304</yloc>
+      <attributes_kjc/>
+    </entry>
+    <entry>
+      <name>File exists XML GWF</name>
+      <description/>
+      <type>FILE_EXISTS</type>
+      <attributes/>
+      <filename>file:///C:/Users/ossie/Desktop/ISI/Trabalho/Ficheiros%20de%20Data/Gourmet_World_Food.xml</filename>
+      <parallel>N</parallel>
+      <draw>Y</draw>
+      <nr>0</nr>
+      <xloc>704</xloc>
+      <yloc>480</yloc>
+      <attributes_kjc/>
+    </entry>
+    <entry>
+      <name>Delete file HTML CH</name>
+      <description/>
+      <type>DELETE_FILE</type>
+      <attributes/>
+      <filename>C:\Users\ossie\Desktop\ISI\Trabalho\HTML\CleaningAndHousehold.html</filename>
+      <fail_if_file_not_exists>N</fail_if_file_not_exists>
+      <parallel>N</parallel>
+      <draw>Y</draw>
+      <nr>0</nr>
+      <xloc>800</xloc>
+      <yloc>272</yloc>
+      <attributes_kjc/>
+    </entry>
+    <entry>
+      <name>Delete file HTML GWF</name>
+      <description/>
+      <type>DELETE_FILE</type>
+      <attributes/>
+      <filename>C:\Users\ossie\Desktop\ISI\Trabalho\HTML\GourmetAndWorldFoodgrains.html</filename>
+      <fail_if_file_not_exists>N</fail_if_file_not_exists>
+      <parallel>N</parallel>
+      <draw>Y</draw>
+      <nr>0</nr>
+      <xloc>800</xloc>
+      <yloc>512</yloc>
+      <attributes_kjc/>
+    </entry>
+    <entry>
+      <name>Delete file XML FV</name>
+      <description/>
+      <type>DELETE_FILE</type>
+      <attributes/>
+      <filename>C:\Users\ossie\Desktop\ISI\Trabalho\HTML\FruitsAndVegetables.html</filename>
+      <fail_if_file_not_exists>N</fail_if_file_not_exists>
+      <parallel>N</parallel>
+      <draw>Y</draw>
+      <nr>0</nr>
+      <xloc>944</xloc>
+      <yloc>464</yloc>
+      <attributes_kjc/>
+    </entry>
+    <entry>
+      <name>Delete file HTML EMF</name>
+      <description/>
+      <type>DELETE_FILE</type>
+      <attributes/>
+      <filename>C:\Users\ossie\Desktop\ISI\Trabalho\HTML\EggsMeatAndFish.html</filename>
+      <fail_if_file_not_exists>N</fail_if_file_not_exists>
+      <parallel>N</parallel>
+      <draw>Y</draw>
+      <nr>0</nr>
+      <xloc>944</xloc>
+      <yloc>304</yloc>
+      <attributes_kjc/>
+    </entry>
+    <entry>
+      <name>File exists XML EMF</name>
+      <description/>
+      <type>FILE_EXISTS</type>
+      <attributes/>
+      <filename>file:///C:/Users/ossie/Desktop/ISI/Trabalho/Ficheiros%20de%20Data/Eggs_Meat_Fish.js</filename>
+      <parallel>N</parallel>
+      <draw>Y</draw>
+      <nr>0</nr>
+      <xloc>816</xloc>
+      <yloc>336</yloc>
+      <attributes_kjc/>
+    </entry>
+    <entry>
+      <name>File exists XML FV</name>
+      <description/>
+      <type>FILE_EXISTS</type>
+      <attributes/>
+      <filename>file:///C:/Users/ossie/Desktop/ISI/Trabalho/Ficheiros%20de%20Data/Fruits_Vegetables.xml</filename>
+      <parallel>N</parallel>
+      <draw>Y</draw>
+      <nr>0</nr>
+      <xloc>816</xloc>
+      <yloc>432</yloc>
       <attributes_kjc/>
     </entry>
   </entries>
@@ -614,7 +1011,7 @@
     </hop>
     <hop>
       <from>Transformation</from>
-      <to>XSL Beauty_Hygiene</to>
+      <to>File exists XML BC</to>
       <from_nr>0</from_nr>
       <to_nr>0</to_nr>
       <enabled>Y</enabled>
@@ -622,8 +1019,17 @@
       <unconditional>N</unconditional>
     </hop>
     <hop>
-      <from>Transformation</from>
-      <to>XSL Bakery_Cakes_Dairy</to>
+      <from>File exists XML BC</from>
+      <to>XSL Baby_Care</to>
+      <from_nr>0</from_nr>
+      <to_nr>0</to_nr>
+      <enabled>Y</enabled>
+      <evaluation>N</evaluation>
+      <unconditional>N</unconditional>
+    </hop>
+    <hop>
+      <from>File exists XML BC</from>
+      <to>Delete file HTML BC</to>
       <from_nr>0</from_nr>
       <to_nr>0</to_nr>
       <enabled>Y</enabled>
@@ -631,7 +1037,7 @@
       <unconditional>N</unconditional>
     </hop>
     <hop>
-      <from>Transformation</from>
+      <from>Delete file HTML BC</from>
       <to>XSL Baby_Care</to>
       <from_nr>0</from_nr>
       <to_nr>0</to_nr>
@@ -641,7 +1047,7 @@
     </hop>
     <hop>
       <from>Transformation</from>
-      <to>XSL Beverages</to>
+      <to>File exists XML ME</to>
       <from_nr>0</from_nr>
       <to_nr>0</to_nr>
       <enabled>Y</enabled>
@@ -649,8 +1055,8 @@
       <unconditional>N</unconditional>
     </hop>
     <hop>
-      <from>Transformation</from>
-      <to>XSL Cleaning_Household</to>
+      <from>File exists XML ME</from>
+      <to>Delete file HTML ME</to>
       <from_nr>0</from_nr>
       <to_nr>0</to_nr>
       <enabled>Y</enabled>
@@ -658,8 +1064,8 @@
       <unconditional>N</unconditional>
     </hop>
     <hop>
-      <from>Transformation</from>
-      <to>XSL Eggs_Meat_Fish</to>
+      <from>Delete file HTML ME</from>
+      <to>XSL Most_Expensive</to>
       <from_nr>0</from_nr>
       <to_nr>0</to_nr>
       <enabled>Y</enabled>
@@ -667,7 +1073,178 @@
       <unconditional>N</unconditional>
     </hop>
     <hop>
+      <from>File exists XML ME</from>
+      <to>XSL Most_Expensive</to>
+      <from_nr>0</from_nr>
+      <to_nr>0</to_nr>
+      <enabled>Y</enabled>
+      <evaluation>N</evaluation>
+      <unconditional>N</unconditional>
+    </hop>
+    <hop>
       <from>Transformation</from>
+      <to>File exists XML BCD</to>
+      <from_nr>0</from_nr>
+      <to_nr>0</to_nr>
+      <enabled>Y</enabled>
+      <evaluation>Y</evaluation>
+      <unconditional>N</unconditional>
+    </hop>
+    <hop>
+      <from>File exists XML BCD</from>
+      <to>Delete file HTML BCD</to>
+      <from_nr>0</from_nr>
+      <to_nr>0</to_nr>
+      <enabled>Y</enabled>
+      <evaluation>Y</evaluation>
+      <unconditional>N</unconditional>
+    </hop>
+    <hop>
+      <from>Delete file HTML BCD</from>
+      <to>XSL Bakery_Cakes_Dairy</to>
+      <from_nr>0</from_nr>
+      <to_nr>0</to_nr>
+      <enabled>Y</enabled>
+      <evaluation>Y</evaluation>
+      <unconditional>N</unconditional>
+    </hop>
+    <hop>
+      <from>File exists XML BCD</from>
+      <to>XSL Bakery_Cakes_Dairy</to>
+      <from_nr>0</from_nr>
+      <to_nr>0</to_nr>
+      <enabled>Y</enabled>
+      <evaluation>N</evaluation>
+      <unconditional>N</unconditional>
+    </hop>
+    <hop>
+      <from>Transformation</from>
+      <to>File exists XML C</to>
+      <from_nr>0</from_nr>
+      <to_nr>0</to_nr>
+      <enabled>Y</enabled>
+      <evaluation>Y</evaluation>
+      <unconditional>N</unconditional>
+    </hop>
+    <hop>
+      <from>File exists XML C</from>
+      <to>Delete file HTML C</to>
+      <from_nr>0</from_nr>
+      <to_nr>0</to_nr>
+      <enabled>Y</enabled>
+      <evaluation>Y</evaluation>
+      <unconditional>N</unconditional>
+    </hop>
+    <hop>
+      <from>Delete file HTML C</from>
+      <to>XSL Cheapest</to>
+      <from_nr>0</from_nr>
+      <to_nr>0</to_nr>
+      <enabled>Y</enabled>
+      <evaluation>Y</evaluation>
+      <unconditional>N</unconditional>
+    </hop>
+    <hop>
+      <from>File exists XML C</from>
+      <to>XSL Cheapest</to>
+      <from_nr>0</from_nr>
+      <to_nr>0</to_nr>
+      <enabled>Y</enabled>
+      <evaluation>N</evaluation>
+      <unconditional>N</unconditional>
+    </hop>
+    <hop>
+      <from>Transformation</from>
+      <to>File exists XML BH</to>
+      <from_nr>0</from_nr>
+      <to_nr>0</to_nr>
+      <enabled>Y</enabled>
+      <evaluation>Y</evaluation>
+      <unconditional>N</unconditional>
+    </hop>
+    <hop>
+      <from>File exists XML BH</from>
+      <to>Delete file HTML BH</to>
+      <from_nr>0</from_nr>
+      <to_nr>0</to_nr>
+      <enabled>Y</enabled>
+      <evaluation>Y</evaluation>
+      <unconditional>N</unconditional>
+    </hop>
+    <hop>
+      <from>Delete file HTML BH</from>
+      <to>XSL Beauty_Hygiene</to>
+      <from_nr>0</from_nr>
+      <to_nr>0</to_nr>
+      <enabled>Y</enabled>
+      <evaluation>Y</evaluation>
+      <unconditional>N</unconditional>
+    </hop>
+    <hop>
+      <from>File exists XML BH</from>
+      <to>XSL Beauty_Hygiene</to>
+      <from_nr>0</from_nr>
+      <to_nr>0</to_nr>
+      <enabled>Y</enabled>
+      <evaluation>N</evaluation>
+      <unconditional>N</unconditional>
+    </hop>
+    <hop>
+      <from>Transformation</from>
+      <to>File exists XML SBF</to>
+      <from_nr>0</from_nr>
+      <to_nr>0</to_nr>
+      <enabled>Y</enabled>
+      <evaluation>Y</evaluation>
+      <unconditional>N</unconditional>
+    </hop>
+    <hop>
+      <from>File exists XML SBF</from>
+      <to>Delete file HTML SBF</to>
+      <from_nr>0</from_nr>
+      <to_nr>0</to_nr>
+      <enabled>Y</enabled>
+      <evaluation>Y</evaluation>
+      <unconditional>N</unconditional>
+    </hop>
+    <hop>
+      <from>Delete file HTML SBF</from>
+      <to>XSL Snacks_Branded_Foods</to>
+      <from_nr>0</from_nr>
+      <to_nr>0</to_nr>
+      <enabled>Y</enabled>
+      <evaluation>Y</evaluation>
+      <unconditional>N</unconditional>
+    </hop>
+    <hop>
+      <from>File exists XML SBF</from>
+      <to>XSL Snacks_Branded_Foods</to>
+      <from_nr>0</from_nr>
+      <to_nr>0</to_nr>
+      <enabled>Y</enabled>
+      <evaluation>N</evaluation>
+      <unconditional>N</unconditional>
+    </hop>
+    <hop>
+      <from>Transformation</from>
+      <to>File exists XML FOM</to>
+      <from_nr>0</from_nr>
+      <to_nr>0</to_nr>
+      <enabled>Y</enabled>
+      <evaluation>Y</evaluation>
+      <unconditional>N</unconditional>
+    </hop>
+    <hop>
+      <from>File exists XML FOM</from>
+      <to>Delete file HTML FOM</to>
+      <from_nr>0</from_nr>
+      <to_nr>0</to_nr>
+      <enabled>Y</enabled>
+      <evaluation>Y</evaluation>
+      <unconditional>N</unconditional>
+    </hop>
+    <hop>
+      <from>Delete file HTML FOM</from>
       <to>XSL Foodgrains_Oil_Masala</to>
       <from_nr>0</from_nr>
       <to_nr>0</to_nr>
@@ -676,8 +1253,17 @@
       <unconditional>N</unconditional>
     </hop>
     <hop>
+      <from>File exists XML FOM</from>
+      <to>XSL Foodgrains_Oil_Masala</to>
+      <from_nr>0</from_nr>
+      <to_nr>0</to_nr>
+      <enabled>Y</enabled>
+      <evaluation>N</evaluation>
+      <unconditional>N</unconditional>
+    </hop>
+    <hop>
       <from>Transformation</from>
-      <to>XSL Fruits_Vegetables</to>
+      <to>File exists XML KGP</to>
       <from_nr>0</from_nr>
       <to_nr>0</to_nr>
       <enabled>Y</enabled>
@@ -685,8 +1271,8 @@
       <unconditional>N</unconditional>
     </hop>
     <hop>
-      <from>Transformation</from>
-      <to>XSL Gourmet_World_Foodgrains</to>
+      <from>File exists XML KGP</from>
+      <to>Delete file HTML KGP</to>
       <from_nr>0</from_nr>
       <to_nr>0</to_nr>
       <enabled>Y</enabled>
@@ -694,7 +1280,7 @@
       <unconditional>N</unconditional>
     </hop>
     <hop>
-      <from>Transformation</from>
+      <from>Delete file HTML KGP</from>
       <to>XSL Kitchen_Garden_Pets</to>
       <from_nr>0</from_nr>
       <to_nr>0</to_nr>
@@ -703,12 +1289,192 @@
       <unconditional>N</unconditional>
     </hop>
     <hop>
+      <from>File exists XML KGP</from>
+      <to>XSL Kitchen_Garden_Pets</to>
+      <from_nr>0</from_nr>
+      <to_nr>0</to_nr>
+      <enabled>Y</enabled>
+      <evaluation>N</evaluation>
+      <unconditional>N</unconditional>
+    </hop>
+    <hop>
       <from>Transformation</from>
-      <to>XSL Snacks_Branded_Foods</to>
+      <to>File exists XML B</to>
       <from_nr>0</from_nr>
       <to_nr>0</to_nr>
       <enabled>Y</enabled>
       <evaluation>Y</evaluation>
+      <unconditional>N</unconditional>
+    </hop>
+    <hop>
+      <from>File exists XML B</from>
+      <to>Delete file HTML B</to>
+      <from_nr>0</from_nr>
+      <to_nr>0</to_nr>
+      <enabled>Y</enabled>
+      <evaluation>Y</evaluation>
+      <unconditional>N</unconditional>
+    </hop>
+    <hop>
+      <from>Delete file HTML B</from>
+      <to>XSL Beverages</to>
+      <from_nr>0</from_nr>
+      <to_nr>0</to_nr>
+      <enabled>Y</enabled>
+      <evaluation>Y</evaluation>
+      <unconditional>N</unconditional>
+    </hop>
+    <hop>
+      <from>File exists XML B</from>
+      <to>XSL Beverages</to>
+      <from_nr>0</from_nr>
+      <to_nr>0</to_nr>
+      <enabled>Y</enabled>
+      <evaluation>N</evaluation>
+      <unconditional>N</unconditional>
+    </hop>
+    <hop>
+      <from>Transformation</from>
+      <to>File exists XML GWF</to>
+      <from_nr>0</from_nr>
+      <to_nr>0</to_nr>
+      <enabled>Y</enabled>
+      <evaluation>Y</evaluation>
+      <unconditional>N</unconditional>
+    </hop>
+    <hop>
+      <from>File exists XML GWF</from>
+      <to>Delete file HTML GWF</to>
+      <from_nr>0</from_nr>
+      <to_nr>0</to_nr>
+      <enabled>Y</enabled>
+      <evaluation>Y</evaluation>
+      <unconditional>N</unconditional>
+    </hop>
+    <hop>
+      <from>Delete file HTML GWF</from>
+      <to>XSL Gourmet_World_Foodgrains</to>
+      <from_nr>0</from_nr>
+      <to_nr>0</to_nr>
+      <enabled>Y</enabled>
+      <evaluation>Y</evaluation>
+      <unconditional>N</unconditional>
+    </hop>
+    <hop>
+      <from>File exists XML GWF</from>
+      <to>XSL Gourmet_World_Foodgrains</to>
+      <from_nr>0</from_nr>
+      <to_nr>0</to_nr>
+      <enabled>Y</enabled>
+      <evaluation>N</evaluation>
+      <unconditional>N</unconditional>
+    </hop>
+    <hop>
+      <from>Transformation</from>
+      <to>File exists XML CH</to>
+      <from_nr>0</from_nr>
+      <to_nr>0</to_nr>
+      <enabled>Y</enabled>
+      <evaluation>Y</evaluation>
+      <unconditional>N</unconditional>
+    </hop>
+    <hop>
+      <from>File exists XML CH</from>
+      <to>Delete file HTML CH</to>
+      <from_nr>0</from_nr>
+      <to_nr>0</to_nr>
+      <enabled>Y</enabled>
+      <evaluation>Y</evaluation>
+      <unconditional>N</unconditional>
+    </hop>
+    <hop>
+      <from>Delete file HTML CH</from>
+      <to>XSL Cleaning_Household</to>
+      <from_nr>0</from_nr>
+      <to_nr>0</to_nr>
+      <enabled>Y</enabled>
+      <evaluation>Y</evaluation>
+      <unconditional>N</unconditional>
+    </hop>
+    <hop>
+      <from>File exists XML CH</from>
+      <to>XSL Cleaning_Household</to>
+      <from_nr>0</from_nr>
+      <to_nr>0</to_nr>
+      <enabled>Y</enabled>
+      <evaluation>N</evaluation>
+      <unconditional>N</unconditional>
+    </hop>
+    <hop>
+      <from>Transformation</from>
+      <to>File exists XML EMF</to>
+      <from_nr>0</from_nr>
+      <to_nr>0</to_nr>
+      <enabled>Y</enabled>
+      <evaluation>Y</evaluation>
+      <unconditional>N</unconditional>
+    </hop>
+    <hop>
+      <from>File exists XML EMF</from>
+      <to>Delete file HTML EMF</to>
+      <from_nr>0</from_nr>
+      <to_nr>0</to_nr>
+      <enabled>Y</enabled>
+      <evaluation>Y</evaluation>
+      <unconditional>N</unconditional>
+    </hop>
+    <hop>
+      <from>Delete file HTML EMF</from>
+      <to>XSL Eggs_Meat_Fish</to>
+      <from_nr>0</from_nr>
+      <to_nr>0</to_nr>
+      <enabled>Y</enabled>
+      <evaluation>Y</evaluation>
+      <unconditional>N</unconditional>
+    </hop>
+    <hop>
+      <from>File exists XML EMF</from>
+      <to>XSL Eggs_Meat_Fish</to>
+      <from_nr>0</from_nr>
+      <to_nr>0</to_nr>
+      <enabled>Y</enabled>
+      <evaluation>N</evaluation>
+      <unconditional>N</unconditional>
+    </hop>
+    <hop>
+      <from>Transformation</from>
+      <to>File exists XML FV</to>
+      <from_nr>0</from_nr>
+      <to_nr>0</to_nr>
+      <enabled>Y</enabled>
+      <evaluation>Y</evaluation>
+      <unconditional>N</unconditional>
+    </hop>
+    <hop>
+      <from>File exists XML FV</from>
+      <to>Delete file XML FV</to>
+      <from_nr>0</from_nr>
+      <to_nr>0</to_nr>
+      <enabled>Y</enabled>
+      <evaluation>Y</evaluation>
+      <unconditional>N</unconditional>
+    </hop>
+    <hop>
+      <from>Delete file XML FV</from>
+      <to>XSL Fruits_Vegetables</to>
+      <from_nr>0</from_nr>
+      <to_nr>0</to_nr>
+      <enabled>Y</enabled>
+      <evaluation>Y</evaluation>
+      <unconditional>N</unconditional>
+    </hop>
+    <hop>
+      <from>File exists XML FV</from>
+      <to>XSL Fruits_Vegetables</to>
+      <from_nr>0</from_nr>
+      <to_nr>0</to_nr>
+      <enabled>Y</enabled>
+      <evaluation>N</evaluation>
       <unconditional>N</unconditional>
     </hop>
   </hops>
